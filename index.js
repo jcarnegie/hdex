@@ -1,1 +1,1 @@
-module.exports = require("hyperdex-client.node");
+module.exports = require("./hyperdex-client.node");
