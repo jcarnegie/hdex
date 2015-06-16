@@ -1,0 +1,14 @@
+{
+  "name": "hdex",
+  "version": "1.7.1",
+  "description": "Hyperdex Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperdex"
+  ],
+  "author": "Jeff Carnegie",
+  "license": "MIT"
+}
