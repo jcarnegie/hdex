@@ -2,7 +2,7 @@
 
 set -e
 
-HYPERDEX_VERSION=1.7.1
+HYPERDEX_VERSION=1.8.1
 
 cd deps
 tar zxf hyperdex-${HYPERDEX_VERSION}.tar.gz
